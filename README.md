@@ -1,31 +1,4 @@
-<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
-        <div class='crawler-post-meta'>
-          <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
-            <meta itemprop='name' content='Freesoff'>
-              <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
-                <meta itemprop='url' content='https://freesoff.com/uploads/default/original/2X/7/795ae78ab85d3096c09b97842fe55e6416e46dd3.png'>
-              </div>
-          </div>
-          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <a itemprop="url" href='https://freesoff.com/u/Anonymous'><span itemprop='name'>Anonymous</span></a>
-            
-          </span>
-
-          <link itemprop="mainEntityOfPage" href="https://freesoff.com/t/free-top-100-hacking-ebooks/3829">
-
-            <link itemprop="image" href="https://freesoff.com/uploads/default/original/2X/7/702c83260f9b2675fc7c0bb5d028ce1dd473645f.png">
-
-          <span class="crawler-post-infos">
-              <time itemprop='datePublished' datetime='2020-09-17T08:26:03Z' class='post-time'>
-                17 September 2020 08:26
-              </time>
-              <meta itemprop='dateModified' content='2020-09-17T08:26:03Z'>
-          <span itemprop='position'>#1</span>
-          </span>
-        </div>
-        <div class='post' itemprop='articleBody'>
-          <p><div class="lightbox-wrapper"><a class="lightbox" href="https://freesoff.com/uploads/default/original/2X/7/702c83260f9b2675fc7c0bb5d028ce1dd473645f.png" data-download-href="https://freesoff.com/uploads/default/702c83260f9b2675fc7c0bb5d028ce1dd473645f" title="hacking-books-2018"><img src="https://freesoff.com/uploads/default/original/2X/7/702c83260f9b2675fc7c0bb5d028ce1dd473645f.png" alt="hacking-books-2018" data-base62-sha1="g0kQjLBgkSVIVz6QtBrHJvCF9WT" width="690" height="378" data-small-upload="https://freesoff.com/uploads/default/optimized/2X/7/702c83260f9b2675fc7c0bb5d028ce1dd473645f_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">hacking-books-2018</span><span class="informations">696×382 108 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
-          
+![hacking-books-2018](https://freesoff.com/uploads/default/original/2X/7/702c83260f9b2675fc7c0bb5d028ce1dd473645f.png)
           
 <a href="https://mega.nz/#!mOox2ILQ!3adhWlfKw5DwTWGqJPM8TSeSY_3Gs9bGLu9bY3hknLw" rel="nofollow noopener">1. Advanced Penetration Testing Hacking 2017.pdf</a></p>
 <p><a href="https://mega.nz/#!3Hw0jKrA!CQgjBPlShS8F0I78VtjUSRiVbxgaX3XXI7MwvPKJ5xE" rel="nofollow noopener">2. CEH v9 Certified Ethical Hacker Version 9.pdf</a></p>
@@ -128,11 +101,4 @@
 <p><a href="http://222.124.154.59/politala/1.%20Jurusan/Teknik%20Informatika/1.%20Data%20Dosen%20dan%20Staff/8.%20Hendrik%20S.%20U,%20ST,.MMSI/Materi%20Kuliah/Keamanan%20Jaringan/kali%20linux/ebook/Web%20Penetration%20Testing%20with%20Kali%20Linux.pdf" rel="nofollow noopener">100. Web Penetration Testing with Kali Linux.pdf</a></p>
         </div>
 
-        <meta itemprop='headline' content='[Free]Top 100 Hacking EBooks'>
-          <meta itemprop='keywords' content='free, hacking, hacker'>
-
-        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
-           <meta itemprop="userInteractionCount" content="3" />
-           <span class='post-likes'>3 Likes</span>
-         </div>
+        
